@@ -3,7 +3,7 @@ layout: post
 permalink: projects/question-of-the-day--webapp/index.html
 title: "Question of the Day : Webapp"
 description: 
-categories: [web, javascript]
+categories: [javascript, web]
 date: 2016-11-23 22:23:13 +0530
 tags: []
 ---

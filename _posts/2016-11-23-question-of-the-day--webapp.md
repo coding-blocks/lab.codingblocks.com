@@ -1,0 +1,49 @@
+---
+layout: post
+permalink: projects/question-of-the-day--webapp/index.html
+title: "Question of the Day : Webapp"
+description: 
+categories: project
+date: 2016-11-23 22:23:13 +0530
+tags: []
+---
+The 'Question of the Day' webapp initially should only fulfill the purpose of 
+a admin console. Later on it should also evolve client functionality - 
+i.e. people should be able get a new question every day and solve them. 
+
+### User Flow
+The user flow of the webapp is as follows - 
+
+ - User can login/proceed as guest
+     - If proceed as guest  
+       -  Can see list of questions  
+     - If logged in
+       -  Can see list of questions
+       - If user is administrator
+         - Can edit questions
+         - Can delete questions
+         - Can add new questions
+         - Can view users
+         - Enable the role administrator on other users
+     
+### Technologies
+
+| **Backend** | Parse Server (Hosted via [back4app](http://back4app.com)) |  
+|  **Frontend**  | EmberJS  |  
+
+### Information
+
+**Source Code** : <http://github.com/coding-blocks/QuestionOfTheDay-WebAdmin>    
+**Open Issues** : <http://github.com/coding-blocks/QuestionOfTheDay-WebAdmin/issues>   
+
+**Maintainers**     
+
+- [Arnav Gupta](http://github.com/championswimmer) 
+ 
+ 
+### How to get involved 
+
+Either pick up an issue/bug from the _**open issues**_ list and start fixing it
+or if you want to suggest a new feature, create a new issue, and wait for
+the maintainers to discuss it, and once the maintainers give it a go, start
+working on it. 

@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="home" class="page-content wc-container">
 	<div class="posts">
-  		{% for post in site.posts limit:10 %}
+  		{% for post in site.posts limit:20 %}
   			<div class="post">
     			<h3 class="post-title">
 			      <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">

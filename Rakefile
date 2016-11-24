@@ -9,3 +9,22 @@ desc 'Search site and print specific deprecation warnings'
 task :check do 
     sh "jekyll doctor"
 end
+
+desc 'Create new project'
+task :new_project, :title do |t, args|
+   args.with_defaults(:title => 'New Project')
+   title = args.title
+   filename = "_posts/#{Time.now.strftime('%Y-%m-%d')}-#{title.downcase.gsub(/&/,'and').gsub(/[,'":\?!\(\)\[\]]/,'').gsub(/[\W\.]/, '-').gsub(/-+$/,'')}.md"
+   puts "Creating new page: #{filename}"
+   open(filename, 'w') do |post|
+     post.puts "---"
+     post.puts "layout: post"
+     post.puts "permalink:" + "projects/" + #{title.downcase.gsub(/&/,'and').gsub(/[,'":\?!\(\)\[\]]/,'').gsub(/[\W\.]/, '-').gsub(/-+$/,'')}/index.html"
+     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+     post.puts "description: "
+     post.puts "categories: project"
+     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
+     post.puts "tags: []"
+     post.puts "---"
+   end
+end

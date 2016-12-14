@@ -12,8 +12,8 @@ The URL shortner project - _**shortlr**_ works like common URL shortening servic
 <http://bit.ly> or <http://goo.gl> etc.    
 
 People can -   
-- Create shortcodes for their URLs (which are randomly generated 5 digit alphanumeric)
-- Create custom shortcodes (like /mycode) for their URLs
+- Create shortcodes for their URLs (which are randomly generated 5 digit alphanumeric)  
+- Create custom shortcodes (like /mycode) for their URLs  
  
 There would be stats available for how many times each shortlink has been
 opened. Also the traffic stats will have details of the referrer URL 
@@ -22,7 +22,7 @@ opened. Also the traffic stats will have details of the referrer URL
 
 ### Technologies
 
-| **Server** | [Express](http://expressjs.com)) |    
+| **Server** | [Express](http://expressjs.com) |    
 |  **Database**  | [PostgreSQL](http://postgresql.org)  |   
 
 

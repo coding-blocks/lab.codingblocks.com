@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: "projects/url-shortener-in-nodejs-and-postgresql/index.html"
+permalink: projects/url-shortener-in-nodejs-and-postgresql
 title:"URL Shortener in NodeJS and PostgreSQL"
 description: 
 categories: [nodejs, javascript, web]

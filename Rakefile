@@ -19,8 +19,8 @@ task :new_project, :title do |t, args|
    open(filename, 'w') do |post|
      post.puts "---"
      post.puts "layout: post"
-     post.puts "permalink:" + "projects/" + #{title.downcase.gsub(/&/,'and').gsub(/[,'":\?!\(\)\[\]]/,'').gsub(/[\W\.]/, '-').gsub(/-+$/,'')}/index.html"
-     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+     post.puts "permalink:" + " \"projects/" + "#{title.downcase.gsub(/&/,'and').gsub(/[,'":\?!\(\)\[\]]/,'').gsub(/[\W\.]/, '-').gsub(/-+$/,'')}/index.html\""
+     post.puts "title:" + "\"#{title.gsub(/&/,'&amp;')}\""
      post.puts "description: "
      post.puts "categories: project"
      post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"

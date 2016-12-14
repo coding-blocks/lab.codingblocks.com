@@ -22,10 +22,11 @@ opened. Also the traffic stats will have details of the referrer URL
 
 ### Technologies
 
-| **Server** | [Express](http://expressjs.com)) |  
-|  **Database**  | [PostgreSQL](http://postgresql.org)  |  
+| **Server** | [Express](http://expressjs.com)) |    
+|  **Database**  | [PostgreSQL](http://postgresql.org)  |   
+
 
 ## Information
 
-**Source Code** : <http://github.com/coding-blocks/shorturl>
+**Source Code** : <http://github.com/coding-blocks/shorturl>  
 **Hosted At(Live)** : <http://cb.lk/admin>

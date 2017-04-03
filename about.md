@@ -46,11 +46,11 @@ To begin with there are a few projects like -
   - Android and Web apps to visualise various algorithms and their data structures
 
 More projects will be made part of CB Labs. Keep an eye out on
-**[lab.codingblocks.xyz](http://lab.codingblocks.xyz)**
+**[lab.codingblocks.com](http://lab.codingblocks.com)**
 
 ### Knock, knock, how do I get in ?
 As with open source projects, there are usually no _doors_ (or _Windows_, lol).
-Stay informed about the projects via **[the labs page](http://lab.codingblocks.xyz)**
+Stay informed about the projects via **[the labs page](http://lab.codingblocks.com)**
 and if any project interests you, check out it's github repo.
 
 You should find ample number of issues and bugs to start contributing to. We'll try

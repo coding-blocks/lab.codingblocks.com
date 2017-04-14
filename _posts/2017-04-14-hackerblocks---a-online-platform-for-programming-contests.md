@@ -1,0 +1,20 @@
+---
+layout: post
+permalink: "projects/hackerblocks---a-online-platform-for-programming-contests"
+title:"HackerBlocks - A online platform for programming contests and hackathons"
+description: "Host hackathons and programming contests on HackerBlocks"
+categories: [ember, javascript, web]
+date: 2017-04-14 13:59:31 +0530
+tags: [hackerblocks, hackathon]
+---
+
+### Technologies
+
+| **Language** | [Javascript ES6](http://ecmascript.org) |
+|  **Framework**  | [Ember JS](http://emberjs.com)  |
+
+
+### Information
+
+**Source Code** : <http://github.com/coding-blocks/hacker-blocks>
+**Hosted At(Live)** : <http://hackerblocks.com>

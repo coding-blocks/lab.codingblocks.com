@@ -201,7 +201,7 @@ header.main-header {
     background-color: $base-08;
     color: $base-07;
     &:hover {
-      text-decoration: underline $base-07;
+      border-bottom-color: $base-07;
     }
   }
   h2 {

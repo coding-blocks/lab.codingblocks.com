@@ -3,9 +3,9 @@ layout: post
 permalink: projects/question-of-the-day--webapp/index.html
 title: "Question of the Day : Webapp"
 description: 
-categories: [javascript, web]
+categories: [javascript, web, ember]
 date: 2016-11-23 22:23:13 +0530
-tags: []
+tags: [emberjs, ember]
 ---
 The 'Question of the Day' webapp initially should only fulfill the purpose of 
 a admin console. Later on it should also evolve client functionality - 

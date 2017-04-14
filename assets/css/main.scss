@@ -196,7 +196,15 @@ header.main-header {
   color: $base-00;
   border-top: 5px $base-00 solid;
 
-  h1, h2 { text-align: center; color: inherit;}
+  h1 {
+    text-align: center;
+    background-color: $base-08;
+    color: $base-07;
+  }
+  h2 {
+    text-align: center;
+    color: inherit;
+  }
   a { 
     color: inherit;
     &:hover, &:active, &:focus {

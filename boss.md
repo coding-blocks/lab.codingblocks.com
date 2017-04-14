@@ -48,9 +48,10 @@ To top 10 students as on **15th August 2017** will be BOSS 2017 Winners.
 ## Rules and Eligibility
 
 ### Duration
-Coding Period Start Date : 15th May 2017
-Coding Period End Date   : 15th August 2017
-Result Declaration       : 20th August 2017
+
+|Coding Period Start Date | 15th May 2017|
+|Coding Period End Date   | 15th August 2017|
+|Result Declaration       | 20th August 2017|
 
 ### Who can participate ?
 BOSS 2017 is open to any _**Indian Student**_. You could be a student enrolled

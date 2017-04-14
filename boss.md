@@ -66,6 +66,21 @@ There is **no process of registration**. Anyone can start participating
 **NOTE** Any issues resolved (with or without bounties) before 15th May
 will not be considered for calculating winners of BOSS 2017.
 
+## Prizes
+
+As on 15th August 2017, the top 10 students with maximum bounties collected
+will win the following prizes.
+
+ -  ### 1st Prize : Macbook Air
+ -  ### 2nd Prize : Oneplus 3
+ -  ### 3rd Prize : Oneplus 2
+ -  ### 4th Prize : Moto G5+
+ -  ### 5th Prize : Sony Sports Headphones
+ -  ### All top 10 winners: Coding Blocks Goodie Bag
+
+The prizes are subject to the student having collected a minimum of 5000 bounty
+points.
+
 ## Projects
 As such any project part of the [Coding Blocks Github Repo](http://github.com/coding-blocks)
 is part of BOSS. Some projects have further information about them that is

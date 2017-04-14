@@ -8,6 +8,14 @@ description: "Ideas for projects that we want to build at Coding Blocks"
 
 <b><i>NOTE</i></b> You can submit your own ideas too.
 
+<ul>
+
 {% for idea in site.ideas %}
-<h2> {{ idea.title }}</h2>
+    <li>
+        <a href="{{ idea.url }}">
+            <h2> {{ idea.title }}</h2>
+        </a>
+        <p> {{ idea.excerpt }} </p>
+    </li>
 {% endfor %}
+</ul>

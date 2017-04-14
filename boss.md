@@ -54,13 +54,15 @@ Result Declaration       : 20th August 2017
 
 ### Who can participate ?
 BOSS 2017 is open to any _**Indian Student**_. You could be a student enrolled
-in any school or a college or university.
+in any school or a college or university. You might be asked to prove you
+were a bonafide student of a school, college or university as on 15th May 2017.
 
 For students outside India, we are not officially considering them for 2017,
 mostly because there will be logistics issues with sending prizes for winners.
 
 There is **no process of registration**. Anyone can start participating
  in BOSS 2017, at any point of time before 15th August 2017 (the end date).
+
 
 
 **NOTE** Any issues resolved (with or without bounties) before 15th May

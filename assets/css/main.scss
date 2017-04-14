@@ -200,6 +200,9 @@ header.main-header {
     text-align: center;
     background-color: $base-08;
     color: $base-07;
+    &:hover {
+      text-decoration: underline $base-07;
+    }
   }
   h2 {
     text-align: center;

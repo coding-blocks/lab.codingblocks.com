@@ -107,6 +107,15 @@ Pull Requests.
  - **Harshit** <http://github.com/the-dagger>
 
 
+## Communication
+
+You can hang out with mentors and other participants on the BOSS 2017 lobby
+on Gitter
+[![Gitter](https://img.shields.io/gitter/room/coding-blocks/boss-2017-lobby.svg)](https://gitter.im/coding-blocks/boss-2017-lobby)
+
+If you have any specific query that you want to ask privately over email please use
+`arnav [at] codingblocks [dot] com`
+
 ----
 
 Further information and an FAQ will be populated on this page before 15th May.

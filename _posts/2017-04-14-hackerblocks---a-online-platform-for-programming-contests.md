@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: "projects/hackerblocks---a-online-platform-for-programming-contests"
-title:"HackerBlocks - A online platform for programming contests and hackathons"
-description: "Host hackathons and programming contests on HackerBlocks"
+title:"HackerBlocks"
+description: "A online platform for programming contests and hackathons"
 categories: [ember, javascript, web]
 date: 2017-04-14 13:59:31 +0530
 tags: [hackerblocks, hackathon]

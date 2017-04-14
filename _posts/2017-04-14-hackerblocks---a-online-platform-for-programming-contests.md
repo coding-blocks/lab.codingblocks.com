@@ -18,3 +18,8 @@ tags: [hackerblocks, hackathon]
 
 **Source Code** : <http://github.com/coding-blocks/hacker-blocks>
 **Hosted At(Live)** : <http://hackerblocks.com>
+
+### Maintiners
+
+**Umair Khan** <umair@codingblocks.com>
+**Prajjwal** <prajjwal@codingblocks.com>

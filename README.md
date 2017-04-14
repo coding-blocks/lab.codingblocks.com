@@ -17,5 +17,5 @@ gem install rake
 We have a rake task `new_project`, which you can run like this -
 
 ```shell
-rake new_project["WebIDE: An IDE in a Webapp to compile and test code online"]
+rake 'new_project["WebIDE", "An IDE in a Webapp to compile and test code online"]'
 ```

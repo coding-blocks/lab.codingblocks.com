@@ -12,7 +12,8 @@ end
 
 desc 'Create new project'
 task :new_project, [:title, :description] do |t, args|
-   args.with_defaults(:title => 'New Project', description => '')
+   args.with_defaults(:title => 'New Project')
+   args.with_defaults(:description => ' ')
    title = args.title
    desc= args.description
    filename = "_posts/#{Time.now.strftime('%Y-%m-%d')}-#{title.downcase.gsub(/&/,'and').gsub(/[,'":\?!\(\)\[\]]/,'').gsub(/[\W\.]/, '-').gsub(/-+$/,'')}.md"

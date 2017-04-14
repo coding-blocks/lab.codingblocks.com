@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: "projects/hackerblocks"
-title:"HackerBlocks"
+title: "HackerBlocks"
 description: "An online platform for programming contests and hackathons"
 categories: [ember, javascript, web]
 date: 2017-04-14 13:59:31 +0530
-tags: [hackerblocks, hackathon]
+tags: []
 ---
 
 ### Technologies

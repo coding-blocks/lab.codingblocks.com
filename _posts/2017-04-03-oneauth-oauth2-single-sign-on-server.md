@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: "projects/oneauth-oauth2-single-sign-on-server/index.html"
-title:"oneauth: Oauth2 Single Sign On server"
-description: 
+title: "oneauth"
+description: "Oauth2 Single Sign On server"
 categories: [nodejs, postgres, web]
 date: 2017-04-03 16:52:13 +0530
 tags: [oauth, nodejs, javascript, web]

@@ -1,8 +1,8 @@
 ---
 layout: post
-permalink: "projects/hackerblocks---a-online-platform-for-programming-contests"
+permalink: "projects/hackerblocks"
 title:"HackerBlocks"
-description: "A online platform for programming contests and hackathons"
+description: "An online platform for programming contests and hackathons"
 categories: [ember, javascript, web]
 date: 2017-04-14 13:59:31 +0530
 tags: [hackerblocks, hackathon]
@@ -21,5 +21,5 @@ tags: [hackerblocks, hackathon]
 
 ### Maintiners
 
-**Umair Khan** <umair@codingblocks.com>
-**Prajjwal** <prajjwal@codingblocks.com>
+ - **Umair Khan** <umair@codingblocks.com>
+ - **Prajjwal** <prajjwal@codingblocks.com>

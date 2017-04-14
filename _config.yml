@@ -58,6 +58,10 @@ exclude:
   - .sass-cache
   - Gemfile.lock
 
+collections:
+  ideas:
+    output: true
+
 # Sass conversion configs
 sass:
     sass_dir: assets/css/_sass

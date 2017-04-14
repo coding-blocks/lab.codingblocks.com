@@ -1,0 +1,13 @@
+---
+layout: page
+title: Ideas
+permalink: /ideas
+description: "Ideas for projects that we want to build at Coding Blocks"
+
+---
+
+<b><i>NOTE</i></b> You can submit your own ideas too.
+
+{% for idea in site.ideas %}
+<h2> {{ idea.title }}</h2>
+{% endfor %}

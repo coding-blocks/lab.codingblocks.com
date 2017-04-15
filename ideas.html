@@ -10,17 +10,18 @@ description: "Ideas for projects that we want to build at Coding Blocks"
 make a <i>Pull Request</i> to <a href="https://github.com/coding-blocks/lab.codingblocks.com">this github repo</a>
 and adding your idea to the <b>_ideas</b> folder.
 
-<ul>
+<br> <br>
 
+<ul class="idea-list">
 {% for idea in site.ideas %}
     <li>
         <a href="{{ idea.url }}">
             <h4 class="idea-title"> {{ idea.title }}</h4>
-
-            <p class="idea-content">
-                {{ idea.excerpt }}
-            </p>
         </a>
+
+        <p class="idea-content">
+            {{ idea.excerpt }}
+        </p>
         <p> {{ idea.excerpt }} </p>
     </li>
 {% endfor %}

@@ -31,6 +31,8 @@ many others to start our own programme to engage all of you via **BOSS**
  - [Mentors](#mentors)
  - [Communication](#communication)
  - [FAQ](#frequently-asked-questions)
+   -  [General](#general)
+   -  [Student](#student)
 
 ----
 
@@ -133,6 +135,31 @@ If you have any specific query that you want to ask privately over email please 
 ----
 
 ## Frequently Asked Questions
+
+### General
+
+#### Is BOSS an internship ?
+No BOSS is not an internship. This is a voluntary participation contest.
+
+#### Who owns the code contributed ?
+Your code's authorship will remain with you. It will become part of the
+respective project you contributed to, as per the license that is used in the
+project. Most of our projects are Apache v2 or GPL v2 licensed.
+
+### Students
+
+#### Can I participate in BOSS while undergoing an internship ?
+As such, there is no problem. Please clear it out with your employer.
+They might have intellectual property rights issues regarding contributing
+to BOSS during office hours.
+
+#### What are the criteria for participation ?
+ - You should be above 13 years old
+ - You should be enrolled in a recognised school, college or university on 15th May 2017
+
+#### Can I get a certificate of participation ?
+Absolutely. If you earn a minimum of 500 bounty points, you're eligible to
+get a certificate of participation.
 
 ----
 

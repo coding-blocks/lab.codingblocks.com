@@ -4,7 +4,8 @@
 #baseurl: /harmony
 
 # Site live URL
-url: http://lab.codingblocks.com
+#url: http://lab.codingblocks.com
+url: http://localhost:4000
 
 # Localhost 
 # url: http://127.0.0.1:4000  

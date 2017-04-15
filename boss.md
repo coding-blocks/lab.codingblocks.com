@@ -21,6 +21,19 @@ We're taking inspiration from other such open source summer programmes like
 _Google Summer of Code_, _Google Code-In_, _Summer of KDE_, _RGSoC_ and
 many others to start our own programme to engage all of you via **BOSS**
 
+#### See
+ - [How will it work](#how-will-it-work-)
+ - [Rules and Eligibility](#rules-and-eligibility)
+   -  [Duration](#duration)
+   -  [Who can participate?](#who-can-participate-)
+ - [Prizes](#prizes)
+ - [Projects](#projects)
+ - [Mentors](#mentors)
+ - [Communication](#communication)
+ - [FAQ](#frequently-asked-questions)
+
+----
+
 ## How will it work ?
 
 At Coding Blocks we have a number of open source projects going on
@@ -32,7 +45,7 @@ The objective is to get involved in these projects via contributions
 through Github (in form of Pull Requests).
 
 BOSS 2017 starts from **15th May 2017**, after which you'll find
-most of our repositories will have issues marked with a _**bounty amount_**
+most of our repositories will have issues marked with a _**bounty amount**_
 
 You can check a couple of such issues for example -
  - [issue-7, shortlr](https://github.com/coding-blocks/shortlr/issues/7)
@@ -66,23 +79,24 @@ There is **no process of registration**. Anyone can start participating
 
 
 
-**NOTE** Any issues resolved (with or without bounties) before 15th May
-will not be considered for calculating winners of BOSS 2017.
+**NOTE** Only issues with bounties resolved within the given period -
+15th May 2017 - 15th August 2017, will be taken into consideration for
+calculation of winners.
 
 ## Prizes
 
 As on 15th August 2017, the top 10 students with maximum bounties collected
 will win the following prizes.
 
- -  ### 1st Prize : Macbook Air
- -  ### 2nd Prize : Oneplus 3
- -  ### 3rd Prize : Oneplus 2
- -  ### 4th Prize : Moto G5+
- -  ### 5th Prize : Sony Sports Headphones
- -  ### All top 10 winners: Coding Blocks Goodie Bag
+ -  #### 1st Prize : Macbook Air
+ -  #### 2nd Prize : Oneplus 3
+ -  #### 3rd Prize : Oneplus 2
+ -  #### 4th Prize : Moto G5+
+ -  #### 5th Prize : Sony Sports Headphones
+ -  #### All top 10 winners: Coding Blocks Goodie Bag
 
-The prizes are subject to the student having collected a minimum of 5000 bounty
-points.
+The prizes are subject to the student having collected a _minimum of 5000 bounty
+points_.
 
 ## Projects
 As such any project part of the [Coding Blocks Github Repo](http://github.com/coding-blocks)
@@ -98,13 +112,13 @@ Following are people who'll be mentoring BOSS 2017. They will have
 the final say in assigning bounty values to issues, and accepting
 Pull Requests.
 
- - **Arnav** <http://github.com/championswimmer>
- - **Umair** <http://github.com/omerjerk>
- - **Prateek** <http://github.com/prateek27>
- - **Prajjwal** <http://github.com/prajjwal>
- - **Sumeet** <http://github.com/sumeetmalik>
- - **Aayush** <http://github.com/aayusharora>
- - **Harshit** <http://github.com/the-dagger>
+ - **Arnav** ([@championswimmer](http://github.com/championswimmer))
+ - **Umair** ([@omerjerk](http://github.com/omerjerk))
+ - **Prateek** ([@prateek27](http://github.com/prateek27))
+ - **Prajjwal** ([@prajjwal](http://github.com/prajjwal))
+ - **Sumeet** ([@sumeetmalik](http://github.com/sumeetmalik))
+ - **Aayush** ([@aayusharora](http://github.com/aayusharora))
+ - **Harshit** ([@the-dagger](http://github.com/the-dagger))
 
 
 ## Communication
@@ -118,5 +132,9 @@ If you have any specific query that you want to ask privately over email please 
 
 ----
 
-Further information and an FAQ will be populated on this page before 15th May.
+## Frequently Asked Questions
+
+----
+
+Further information will be populated on this page before 15th May.
 

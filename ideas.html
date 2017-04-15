@@ -6,7 +6,9 @@ description: "Ideas for projects that we want to build at Coding Blocks"
 
 ---
 
-<b><i>NOTE</i></b> You can submit your own ideas too. To submit your own ideas
+<b><i>NOTE</i></b> You can submit your own ideas too.
+<br>
+To submit your own ideas
 make a <i>Pull Request</i> to <a href="https://github.com/coding-blocks/lab.codingblocks.com">this github repo</a>
 and adding your idea to the <b>_ideas</b> folder.
 
@@ -16,7 +18,7 @@ and adding your idea to the <b>_ideas</b> folder.
 {% for idea in site.ideas %}
     <li>
         <a href="{{ idea.url }}">
-            <h4 class="idea-title"> {{ idea.title }}</h4>
+            <h4 class="idea-title"> <span>{{ idea.title }}</span></h4>
         </a>
 
         <p class="idea-content">

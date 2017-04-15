@@ -761,3 +761,13 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: $base-05;
 }
+
+h4.idea-title {
+  color: $base-08 !important;
+
+  span:hover {
+    border-bottom: 2px solid $base-04;
+  }
+
+
+}

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BOSS - Bountiful Open Source Summer
+description: "Bountiful Open Source Summer - An open source coding programme for students"
 permalink: /boss/
 ---
 

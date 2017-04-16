@@ -7,7 +7,8 @@ permalink: /about/
 > It is a matter of immense pleasure for us to be able to launch "CB Labs", an idea
 we had been toying with for quite some time now.
 
-At Coding Blocks, among other things, we enthusiastically support and promote _free and open source
+At [Coding Blocks](http://codingblocks.com), among other things,
+we enthusiastically support and promote _free and open source
 software development_, and take pride in being hosts of events such as _**Google Summer of Code**_ meetups.
 And in a way, our influence rubbing off, many of our _Android_ and _Web Development_ course graduates
 have taken to contributing to FOSS projects, and a few of them even starting to work on

@@ -5,7 +5,8 @@ permalink: /boss/
 ---
 
 
-At **Coding Blocks**, most of us come from a vibrant _Open Source_ Community,
+At **[Coding Blocks](http://codingblocks.com)**, most of us come from
+a vibrant _Open Source_ Community,
 and that makes us strongly believe in free and open source software.
 
 Each year we teach hundreds of students coding, programming and software

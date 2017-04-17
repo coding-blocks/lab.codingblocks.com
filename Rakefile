@@ -22,7 +22,7 @@ task :new_project, [:title, :description] do |t, args|
      post.puts "---"
      post.puts "layout: post"
      post.puts "permalink:" + " \"projects/" + "#{title.downcase.gsub(/&/,'and').gsub(/[,'":\?!\(\)\[\]]/,'').gsub(/[\W\.]/, '-').gsub(/-+$/,'')}\""
-     post.puts "title: " + "\"#{title.gsub(/&/,'&amp;')}\""
+     post.puts "title: #{title.gsub(/&/,'&amp;')}"
      post.puts "description: #{desc}"
      post.puts "categories: project"
      post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"

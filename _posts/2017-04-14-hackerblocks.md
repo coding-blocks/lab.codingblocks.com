@@ -16,8 +16,8 @@ tags: []
 
 ### Information
 
-**Source Code** : <http://github.com/coding-blocks/hacker-blocks>
-**Hosted At(Live)** : <http://hackerblocks.com>
+|**Source Code** | <http://github.com/coding-blocks/hacker-blocks> |
+|**Hosted At(Live)** | <http://hackerblocks.com> |
 
 ### Maintiners
 

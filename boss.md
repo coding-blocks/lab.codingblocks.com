@@ -23,6 +23,16 @@ We're taking inspiration from other such open source summer programmes like
 _Google Summer of Code_, _Google Code-In_, _Summer of KDE_, _RGSoC_ and
 many others to start our own programme to engage all of you via **BOSS**
 
+<h2 style="text-align: center">LINKS</h2>
+
+<h2 style="text-align: center">
+<a href="https://boss.codingblocks.com">Leaderboard</a>
+ |
+<a href="https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3ABOSS+org%3Acoding-blocks">Open Issues</a>
+</h2>
+
+<h2 style="text-align: center">- - - - - - -</h2>
+
 #### See
  - [How will it work](#how-will-it-work-)
  - [Rules and Eligibility](#rules-and-eligibility)
@@ -62,6 +72,14 @@ continuously  keep getting created.
 The more bounties you collect, the higher you are on the leaderboard.
 To top 10 students as on **15th August 2017** will be BOSS 2017 Winners.
 
+## How to participate ?
+
+Two steps basically.
+
+ 1. Pick any open issue **[from here](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3ABOSS+org%3Acoding-blocks)**, solve it and send a pull request to us.
+ 2. Go to the **[BOSS website](https://boss.codingblocks.com)** and claim the bounty.
+
+
 ## Rules and Eligibility
 
 ### Duration
@@ -94,8 +112,8 @@ will win the following prizes.
 
  -  #### 1st Prize : Macbook Air
  -  #### 2nd Prize : Oneplus 3
- -  #### 3rd Prize : Oneplus 2
- -  #### 4th Prize : Moto G5+
+ -  #### 3rd Prize : Lenovo Z2 Plus
+ -  #### 4th Prize : Moto G5 Plus
  -  #### 5th Prize : Sony Sports Headphones
  -  #### All top 10 winners: Coding Blocks Goodie Bag
 
@@ -165,5 +183,6 @@ get a certificate of participation.
 
 ----
 
-Further information will be populated on this page before 15th May.
-
+_DISCLAIMER: Coding Blocks Pvt. Ltd reserved the rights to make changes to the
+judgement criteria and/or eligibility criteria. All decisions made by BOSS mentors
+with respect of granting bounty points are final and binding_

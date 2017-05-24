@@ -59,6 +59,9 @@ exclude:
   - .sass-cache
   - Gemfile.lock
 
+gems:
+  - jekyll-sitemap
+
 collections:
   ideas:
     output: true

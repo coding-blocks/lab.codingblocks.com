@@ -8,3 +8,4 @@ gem 'github-pages', versions['github-pages']
 gem 'rake'
 
 gem 'pygments.rb'
+gem 'jekyll-sitemap'

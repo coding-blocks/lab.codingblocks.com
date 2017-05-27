@@ -1,3 +1,9 @@
+---
+layout: post
+permalink: "ideas/gitter-android-client"
+title: "Gitter Android Client"
+---
+
 A gitter client for android with added functionality using existing gitter API
 as current one sucks.
 

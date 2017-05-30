@@ -1,9 +1,9 @@
 Project Name : CodeRepo
 Project Type : Web Platform
 
-Problem : As a programmer we'll know when we're participating in any Competitive Programming event we write our own according
+Problem : As a programmer we all know when we're participating in any Competitive Programming event we write our own code according
 to the conditions and type of a problem.But after sometimes in another if we'll find problem based on that tactics we've to start 
-from scratch.So,we need a platform where we can save opur solutions and small notes according to specific tags.
+write code from scratch.So,we need a platform where we can save our solutions and small notes according to specific tags.
 For example:
 TagName-Dynamic Programming
 Solution Name-ACMprobsol
@@ -14,3 +14,5 @@ We can also share it to our juniors and friends for helping them.
 Applications:
 > User can use it offline as well as online also.
 > User can share any specific directory with friends and all.
+
+Yeah you can say we can also save it on our local but cloud is cool and we'll add some extra functionalities which will not avaible on local.

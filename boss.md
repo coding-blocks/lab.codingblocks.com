@@ -149,6 +149,9 @@ You can hang out with mentors and other participants on the BOSS 2017 lobby
 on Gitter
 [![Gitter](https://img.shields.io/gitter/room/coding-blocks/boss-2017-lobby.svg)](https://gitter.im/coding-blocks/boss-2017-lobby)
 
+Start here to get started!
+<iframe src="https://gitter.im/coding-blocks/boss-2017-lobby" style="border:0; width:100%; height: 436px"></iframe>
+
 If you have any specific query that you want to ask privately over email please use
 `arnav [at] codingblocks [dot] com`
 

@@ -117,7 +117,7 @@ will win the following prizes.
  -  #### 5th Prize : Sony Sports Headphones
  -  #### All top 10 winners: Coding Blocks Goodie Bag
 
-The prizes are subject to the student having collected a _minimum of 5000 bounty
+The prizes are subject to the student having collected a _minimum of 1000 bounty
 points_.
 
 ## Projects

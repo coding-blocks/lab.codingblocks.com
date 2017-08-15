@@ -44,7 +44,7 @@ many others to start our own programme to engage all of you via **BOSS**
  - [Communication](#communication)
  - [FAQ](#frequently-asked-questions)
    -  [General](#general)
-   -  [Student](#student)
+   -  [Student](#students)
 
 ----
 

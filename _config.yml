@@ -77,6 +77,10 @@ paginate_path: "blog/page:num"
 include:
  - _pages
 
+collections:
+  ideas:
+    output: true
+
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: pygments

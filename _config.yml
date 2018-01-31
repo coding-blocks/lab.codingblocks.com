@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/"
-url: "https://127.0.0.1:4000/"
+url: "https://lab.codingblocks.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -19,7 +19,7 @@ theme_settings:
 
   header_text_feature_image:
   footer_text: >
-   Maintained with ❤ by <a href="http://cb.lk> Coding Blocks </a>
+   Maintained with ❤ by <a href="http://cb.lk"> Coding Blocks </a>
 
   # Icons
   rss: false
@@ -73,13 +73,20 @@ theme_settings:
 paginate: 5
 paginate_path: "blog/page:num"
 
+# Pages
+include:
+ - _pages
+
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
+
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock

@@ -44,7 +44,7 @@
         <option name="GITHUB_EMOJI_URL" value="false" />
         <option name="GITHUB_LISTS" value="false" />
         <option name="GITHUB_WIKI_LINKS" value="true" />
-        <option name="JEKYLL_FRONT_MATTER" value="false" />
+        <option name="JEKYLL_FRONT_MATTER" value="true" />
         <option name="SIM_TOC_BLANK_LINE_SPACER" value="false" />
       </ParserOptions>
     </ParserSettings>

@@ -10,7 +10,7 @@ layout: default
       {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
-  <section class="post-content">{{ content }}</section>
+  <section class="post-content">{{ page.content }}</section>
   {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
 </article>
 

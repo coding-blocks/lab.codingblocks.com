@@ -4,12 +4,12 @@ permalink: "ideas/gitter-android-client"
 title: "Gitter Android Client"
 ---
 
+A gitter client for android with added functionality using existing gitter API
+
 ## Idea
 
-A gitter client for android with added functionality using existing gitter API
-as current one sucks.
 
-The current one (gitter android app) is not opensoirce and is widely used by
+The current app (gitter android app) is not opensource and is widely used by
 open source organizations, hence this will come handy.
 
 Gitter provides access to it's API. See the documentation at: https://developer.gitter.im/docs/
@@ -30,6 +30,7 @@ early-bird first to implement features:
 - Notification support
 
 ### Implement Additional functionalities
+
 - Room and time oriented donot disturb mode
 - Emoji support
 - Room permissions

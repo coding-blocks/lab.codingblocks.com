@@ -3,9 +3,9 @@ layout: post
 permalink: "projects/tic-tac-toe"
 title: "Tic Tac Toe"
 description: "Multi Mode Tic Tac Toe Online Game"
-categories: [JavaScript]
+categories: [JavaScript, Game, Web]
 date: 2017-05-28 01:10:00 +0530
-tags: []
+tags: [tictactoe, game, javascript]
 ---
 
 **Tic Tac Toe** is multi mode online game. The player have to update the getRow() and getC0l() functions to return the cordinates (starting from 0,0) of the cell where they want to take their turn.

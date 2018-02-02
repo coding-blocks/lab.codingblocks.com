@@ -3,9 +3,9 @@ layout: post
 permalink: "projects/boss-backend"
 title: "Boss-Backend"
 description: "Backend for boss leaderboard"
-categories: [Web, Javascript, Nodejs]
+categories: [Web, Javascript, NodeJS]
 date: 2017-05-28 11:39:46 +0530
-tags: []
+tags: [nodejs, backend, boss, web, javascript]
 ---
 
 **Boss Backend** is written in nodeJs for the live leaderboard for the Bountiful Open Source Summer(BOSS).

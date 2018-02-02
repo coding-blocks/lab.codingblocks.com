@@ -4,6 +4,7 @@ url: "https://lab.codingblocks.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
+  url: "https://lab.codingblocks.com/"
   # Meta
   title: Coding Blocks Labs
   avatar: assets/img/avatar.png
@@ -45,10 +46,10 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  google_analytics: "UA-83327907-3"
+  disqus_shortname: "marketing@codingblocks.com"
   katex: true # Enable if using math markup
-  search: false # Enable the search feature
+  search: true # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"

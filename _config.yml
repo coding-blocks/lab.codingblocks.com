@@ -41,13 +41,13 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "CodingBlocksIN"
   wordpress:
-  youtube:
+  youtube: "CodingBlocksIndia"
 
   # Scripts
   google_analytics: "UA-83327907-3"
-  disqus_shortname: "marketing@codingblocks.com"
+  disqus_shortname: "codingblocks"
   katex: true # Enable if using math markup
   search: true # Enable the search feature
 

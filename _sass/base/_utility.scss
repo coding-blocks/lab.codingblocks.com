@@ -1,6 +1,6 @@
 // Mix-ins
 %padding-small {
-  padding: $padding-x-small $padding-x-small * 2;
+  padding: ($padding-x-small / 2) ($padding-x-small * 3);
   @media (max-width: 1000px) {
     padding: $padding-x-small $padding-x-small;
   }

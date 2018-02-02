@@ -3,7 +3,7 @@ layout: post
 permalink: "projects/angry-coders-game"
 title: "angry-coders-game"
 description: "A game like Angry birds to enhance  geometrical and coding skills"
-categories: [javascript, game, web]
+categories: [Javascript, Game, Web]
 date: 2017-04-19 06:33:27 +0530
 tags: [angry coders, game]
 ---

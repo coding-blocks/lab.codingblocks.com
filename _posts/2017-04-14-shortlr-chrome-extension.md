@@ -3,9 +3,9 @@ layout: post
 permalink: "projects/shortlr-chrome-extension"
 title: "shortlr Chrome Extension"
 description: "Chrome Extension to shorten links with shortlr"
-categories: project
+categories: [Javascript, Web, Chrome Extension]
 date: 2017-04-14 15:17:40 +0530
-tags: []
+tags: [chrome extension, extension, browser, javascript]
 ---
 
 ### Technologies

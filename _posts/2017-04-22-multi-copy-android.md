@@ -5,7 +5,7 @@ title: "Multi Copy Android App"
 description: "An Android App to copy multiple texts together"
 categories: [Android, Java]
 date: 2017-04-22 20:38:46 +0530
-tags: []
+tags: [android, app, clipboard, java, widget]
 ---
 
 **Multi Copy App** is an Android App by which the user can copy multiple texts together. It gives an option "Multi Copy" in the context menu to copy multiple texts, when you paste after multi copy option all the copied text will be pasted.

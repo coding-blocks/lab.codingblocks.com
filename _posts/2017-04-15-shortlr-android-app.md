@@ -5,7 +5,7 @@ title: "Shortlr Android App"
 description: "URL Shortener Android App"
 categories: [Android, Java]
 date: 2017-04-15 18:38:46 +0530
-tags: []
+tags: [android, java, app, shortener]
 ---
 
 **Shortlr App** is an Android App by which the user can generate shortcode for any URL. It works same as

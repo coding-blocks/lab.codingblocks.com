@@ -1,7 +1,8 @@
 .site-header {
   @extend %padding-small;
-  background: #ddd;
-  border-bottom: 1px solid $border-color;
+  background: #fff;
+  border-bottom: 2px solid $border-color;
+  box-shadow: 0 5px 5px $border-color;
   display: inline-block;
   position: sticky;
   top: 0;

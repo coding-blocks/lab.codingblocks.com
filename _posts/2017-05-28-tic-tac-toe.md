@@ -3,7 +3,7 @@ layout: post
 permalink: "projects/tic-tac-toe"
 title: "Tic Tac Toe"
 description: "Multi Mode Tic Tac Toe Online Game"
-categories: [JavaScript, Game, Web]
+categories: [Javascript, Game, Web]
 date: 2017-05-28 01:10:00 +0530
 tags: [tictactoe, game, javascript]
 ---

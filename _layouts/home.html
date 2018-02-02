@@ -3,12 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  {% if site.theme_settings.header_text %}
-  <div class="call-out"
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
-    {{ site.theme_settings.header_text }}
-  </div>
-  {% endif %}
+  {% include banner.html %}
 
   <div class="posts">
     {% for post in paginator.posts %}
@@ -24,7 +19,9 @@ layout: default
         </p>
       </header>
       <div class="excerpt">
-        {{ post.excerpt }}
+        <!--{{ post.excerpt }}-->
+        {{ post.content | truncatewords:100 }}
+        <br>
         <a class="button" href="{{ post.url | relative_url }}">
           {{ site.theme_settings.str_continue_reading }}
         </a>

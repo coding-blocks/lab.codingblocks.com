@@ -66,7 +66,7 @@ which on can find here -
 The objective is to get involved in these projects via contributions
 through Github (in form of Pull Requests).
 
-BOSS 2017 starts from **15th May 2018**, after which you'll find
+BOSS 2018 starts from **15th May 2018**, after which you'll find
 most of our repositories will have issues marked with a _**bounty amount**_
 
 You can check a couple of such issues for example -

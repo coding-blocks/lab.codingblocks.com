@@ -14,17 +14,19 @@ a vibrant _Open Source_ Community,
 and that makes us strongly believe in free and open source software.
 
 Each year we teach hundreds of students coding, programming and software
-development. Over the past three years (we started off in April 2014), we
-have helped more than 1500 students gain expertise in Android, Web, Data Science
+development. Over the past four years (we started off in April 2014), we
+have helped more than 3000 students gain expertise in Android, Web, Data Science
 and more.
 
 To be able to stay connected with our alumni, and reach out the wider
-community of budding software developers, we are launching an annual summer
-programme  - **BOSS** which stands for _**Bountiful Open Source Summer**_
+community of budding software developers, we launched an annual summer
+programme  - **BOSS** which stands for _**Bountiful Open Source Summer**_ last year.
 
-We're taking inspiration from other such open source summer programmes like
+We're took inspiration from other such open source summer programmes like
 _Google Summer of Code_, _Google Code-In_, _Summer of KDE_, _RGSoC_ and
 many others to start our own programme to engage all of you via **BOSS**
+
+In 2018, we are continuing where we left off, with BOSS 2018, the same competition, in a whole new avatar. We have bigger projects, and are expecting much more students to come in an participate.
 
 <h2 style="text-align: center">LINKS</h2>
 

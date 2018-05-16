@@ -150,6 +150,7 @@ Pull Requests.
  - **Prajjwal** ([@prajjwal](http://github.com/prajjwal))
  - **Aayush** ([@aayusharora](http://github.com/aayusharora))
  - **Harshit** ([@the-dagger](http://github.com/the-dagger))
+ - **Anuj** ([KeenWarrior](http://github.com/KeenWarrior))
 
 
 ## Communication

@@ -213,4 +213,4 @@ subtitle: "This is a subtitle"
 ```
 
 ## License
-[The MIT License (MIT)](https://github.com/rohanchandra/type-theme/blob/master/LICENSE)
+[The MIT License (MIT)](https://github.com/coding-blocks/lab.codingblocks.com/blob/gh-pages/LICENSE)

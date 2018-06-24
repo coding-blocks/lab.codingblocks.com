@@ -26,7 +26,7 @@ We're took inspiration from other such open source summer programmes like
 _Google Summer of Code_, _Google Code-In_, _Summer of KDE_, _RGSoC_ and
 many others to start our own programme to engage all of you via **BOSS**
 
-In 2018, we are continuing where we left off, with BOSS 2018, the same competition, in a whole new avatar. We have bigger projects, and are expecting much more students to come in an participate.
+_In 2018, we are continuing where we left off, with BOSS 2018, the same competition, in a whole new avatar, with bigger projects and with a more determined and upright resolution to celebrate diversity among our participants, BOSS 2018 has come up with a unique concept acknowledging and appreciating the efforts of our girl students. The best performing girl will be recognized with special prizes and goodies._
 
 <h2 style="text-align: center">LINKS</h2>
 

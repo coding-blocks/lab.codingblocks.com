@@ -214,3 +214,11 @@ subtitle: "This is a subtitle"
 
 ## License
 [The MIT License (MIT)](https://github.com/rohanchandra/type-theme/blob/master/LICENSE)
+# Running It Locally
+1.First fork the project by clicking the the link given at the top right corner(as shown in the figure)
+<img src="https://user-images.githubusercontent.com/42107838/50548528-89d9c200-0c74-11e9-8abc-071ed3fb209b.png">
+2.Now it will automatically direct you to your repository where you just need to click on clone or download button(use Http key)
+<img src="https://user-images.githubusercontent.com/42107838/50548556-0f5d7200-0c75-11e9-8b00-03658cb65403.png">
+3.In your Code editor Write git clone followed by the copied link.
+4.Bingo You have successfully cloned the git repo of this project
+

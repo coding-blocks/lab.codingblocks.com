@@ -1,3 +1,4 @@
+![alt text](lab.PNG)
 # lab.codingblocks.com
 
 Website for Coding Blocks open source projects

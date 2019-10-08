@@ -35,16 +35,16 @@ of our own and want to make it a part of CB Labs, you are more than welcome.
 
 ### Awesome, what are the projects ?
 
-To begin with there are a few projects like -
+To begin with, there are a few projects like -
 
 - **Code Quiz**
-   - **[Webapp](/projects/question-of-the-day--webapp/)** : A an admin dashboard where people can register and login.
+   - **[Webapp](https://github.com/coding-blocks/QuestionOfTheDay-WebAdmin)** : A an admin dashboard where people can register and login.
    Those who have admin access can add new questions.
    - **Android** : An Android app, which anyone can use. People get a question
    every day, and get points based on how fast they answer it after seeing it.
 
-- **URL Shortner**
-  - An URL shortener, with link follow analytics, written in NodeJS.
+- **URL Shortener**
+  - A URL shortener, with link follow analytics, written in NodeJS.
 
 - **Algorithm Visualiser**
   - Android and Web apps to visualise various algorithms and their data structures
@@ -55,7 +55,7 @@ More projects will be made part of CB Labs. Keep an eye out on
 ### Knock, knock, how do I get in ?
 As with open source projects, there are usually no _doors_ (or _Windows_, lol).
 Stay informed about the projects via **[the labs page](http://lab.codingblocks.com)**
-and if any project interests you, check out it's github repo.
+and if any project interests you, check out its github repo.
 
 You should find ample number of issues and bugs to start contributing to. We'll try
 our best to keep all projects under CB Labs well documented, and easy to get involved

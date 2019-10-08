@@ -10,12 +10,12 @@ theme_settings:
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "A website with blog posts and pages related to Open Source" # used by search engines
 
   # Header and footer text
   header_text: >
     <p>
-      Coding Blocks Labs is an open source playground supported by Coding Blocks
+      Coding Blocks Labs is an open source playground supported by Coding Blocks promoting open source among developers with facinating oppurnities.
     </p>
 
   header_text_feature_image:
@@ -24,7 +24,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "admissions@codingblocks.com"
   behance:
   bitbucket:
   dribbble:
@@ -33,8 +33,8 @@ theme_settings:
   gitlab:
   github: "coding-blocks"
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: "https://www.instagram.com/codingblocks/"
+  linkedin:  "https://www.linkedin.com/school/codingblocksindia/"
   pinterest:
   reddit:
   soundcloud:

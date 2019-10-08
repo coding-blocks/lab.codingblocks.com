@@ -1,10 +1,10 @@
 # lab.codingblocks.com
 
-The website for Coding Blocks-open source projects.
+The website for  Coding Blocks's open source project.
 
 ## Credits
 
-This website is build using Jekyll and hosted on Github. Pages
+This website is build using Jekyll and hosted on Github Pages.
 
 ### About Theme
 

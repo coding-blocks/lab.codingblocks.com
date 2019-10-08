@@ -2,7 +2,7 @@
 
 Website for Coding Blocks open source projects
 
-[Coding Blocks Labs](https://lab.codingblocks.com/about/)
+[Coding Blocks Labs](https://lab.codingblocks.com)
 
 ## Credits
 

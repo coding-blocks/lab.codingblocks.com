@@ -13,7 +13,7 @@ The current app (gitter android app) is not opensource and is widely used by
 open source organizations, hence this will come handy.
 
 Gitter provides access to it's API. See the documentation at: https://developer.gitter.im/docs/
-Currently Gitter provides it free of cost and doesnot seem to have limitations.
+Currently Gitter provides it free of cost and does not seem to have limitations.
 Note: The api is in beta state.
 
 ## Roadmap

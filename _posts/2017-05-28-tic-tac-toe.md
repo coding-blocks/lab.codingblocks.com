@@ -8,7 +8,7 @@ date: 2017-05-28 01:10:00 +0530
 tags: [tictactoe, game, javascript]
 ---
 
-**Tic Tac Toe** is multi mode online game. The player have to update the getRow() and getC0l() functions to return the cordinates (starting from 0,0) of the cell where they want to take their turn.
+**Tic Tac Toe** is multi mode online game. The player have to update the getRow() and getC0l() functions to return the coordinates (starting from 0,0) of the cell where they want to take their turn.
 
 There are three modes:
 

@@ -1,5 +1,9 @@
 # lab.codingblocks.com
 
+![languages](https://img.shields.io/github/languages/top/coding-blocks/lab.codingblocks.com)
+![issues](https://img.shields.io/github/issues/coding-blocks/lab.codingblocks.com)
+![contributors](https://img.shields.io/github/contributors/coding-blocks/lab.codingblocks.com)
+
 Website for Coding Blocks open source projects
 
 ## Credits

@@ -14,7 +14,7 @@ There are three modes:
 
 - **Multiplayer**: It is two player mode.
 - **Random**: It is Player VS Computer mode in which Computer takes it turn, filling up random vacant cells.
-- **Challenge**: It is Player VS Computer mode too but it is an unbeatable version. Player can tie the game or losse but he can never win against the computer, in this mode.
+- **Challenge**: It is Player VS Computer mode too but it is an unbeatable version. Player can tie the game or lose but he can never win against the computer, in this mode.
 
 In Random and Challenge mode there are options to go First and Second too.
 

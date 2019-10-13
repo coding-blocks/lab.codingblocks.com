@@ -4,7 +4,7 @@ Website for Coding Blocks open source projects
 
 ## Credits
 
-This website is build using Jekyll and hosted on Github Pages
+This website is built using Jekyll and hosted on Github Pages
 
 ### About Theme
 

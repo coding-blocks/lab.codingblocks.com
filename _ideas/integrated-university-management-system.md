@@ -4,7 +4,7 @@ permalink: "ideas/integrated-university-management-system"
 title: "Integrated University Management System"
 ---
 
-An Integrated University Managament System with a centralised student
+An Integrated University Management System with a centralized student
 /teacher/other staff database. Integrated library Management Portal, 
 placement portal(hiring or resume manager).
 

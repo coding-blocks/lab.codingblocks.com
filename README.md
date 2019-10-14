@@ -1,6 +1,6 @@
 # lab.codingblocks.com
 
-Website for Coding Blocks open source projects
+This website is for Coding Blocks open source projects
 
 ## Credits
 

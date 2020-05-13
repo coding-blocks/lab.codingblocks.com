@@ -27,6 +27,8 @@ The features it should have are -
    - View Course wise marks
    - View Attendance
    - See Library Checkouts and Fine
+   - View University Clubs 
+   - View College Notice Board for the updated information
  - Library Interface -
    - Issue/Return Book 
    - Support for Bar Code reader   

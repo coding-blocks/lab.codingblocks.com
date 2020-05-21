@@ -4,7 +4,7 @@ permalink: "ideas/integrated-university-management-system"
 title: "Integrated University Management System"
 ---
 
-An Integrated University Managament System with a centralised student
+An Integrated University Management System with a centralized student
 /teacher/other staff database. Integrated library Management Portal, 
 placement portal(hiring or resume manager).
 
@@ -17,7 +17,7 @@ The features it should have are -
  - Android/iOS Apps (to take attendance with/without internet + Library)
  - Admin Portal Features -
    - Add/Manage Teacher/Student/Staff
-   - Lock/Unlock marks for teacher to enter marks   
+   - Lock/Unlock marks for the teacher to enter marks   
    - Generate Marksheet
  - Teacher Portal Features -
    - Manage Attendance

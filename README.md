@@ -2,6 +2,7 @@
 
 Website for Coding Blocks open source projects
 
+[id]: https://lab.codingblocks.com/about/  "Coding Blocks Labs"
 ## Credits
 
 This website is build using Jekyll and hosted on Github Pages

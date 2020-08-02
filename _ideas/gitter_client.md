@@ -13,7 +13,7 @@ The current app (gitter android app) is not opensource and is widely used by
 open source organizations, hence this will come handy.
 
 Gitter provides access to it's API. See the documentation at: https://developer.gitter.im/docs/
-Currently Gitter provides it free of cost and doesnot seem to have limitations.
+Currently Gitter provides it free of cost and does not seem to have limitations.
 Note: The api is in beta state.
 
 ## Roadmap
@@ -31,12 +31,12 @@ early-bird first to implement features:
 
 ### Implement Additional functionalities
 
-- Room and time oriented donot disturb mode
+- Room and time oriented do not disturb mode
 - Emoji support
 - Room permissions
 - Block DMs from users (specific)
 - Pin messages
-- Archieve conversations
+- Archive conversations
 - Integrations support
 - Animations support
 - Welcome message support

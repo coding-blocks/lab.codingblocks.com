@@ -43,11 +43,11 @@ To begin with there are a few projects like -
    - **Android** : An Android app, which anyone can use. People get a question
    every day, and get points based on how fast they answer it after seeing it.
 
-- **URL Shortner**
+- **URL Shortener**
   - An URL shortener, with link follow analytics, written in NodeJS.
 
-- **Algorithm Visualiser**
-  - Android and Web apps to visualise various algorithms and their data structures
+- **Algorithm Visualizer**
+  - Android and Web apps to visualize various algorithms and their data structures
 
 More projects will be made part of CB Labs. Keep an eye out on
 **[lab.codingblocks.com](http://lab.codingblocks.com)**

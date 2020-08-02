@@ -43,7 +43,7 @@ To begin with there are a few projects like -
    - **Android** : An Android app, which anyone can use. People get a question
    every day, and get points based on how fast they answer it after seeing it.
 
-- **URL Shortner**
+- **[URL Shortner](https://github.com/coding-blocks/shortlr2)**
   - An URL shortener, with link follow analytics, written in NodeJS.
 
 - **Algorithm Visualiser**

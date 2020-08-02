@@ -13,12 +13,12 @@ If that occurs, then this is the GSoC 2018 official Ideas List.
 Please also take a look at existing projects. We might be revamping
 or adding features to many of those projects during 2018 as well
 
-**_NOTE_** You can submit your own ideas too.
+**_NOTE_** : You can submit your own ideas too.
 
 
 To submit your own ideas
 make a *Pull Request* to [this github repo](https://github.com/coding-blocks/lab.codingblocks.com)
-and adding your idea to the **_ideas** folder.
+and adding your idea to the [**_ideas**](https://github.com/coding-blocks/lab.codingblocks.com/tree/gh-pages/_ideas) folder.
 
 
 
